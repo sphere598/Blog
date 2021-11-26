@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 17:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 17:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Soleil conjoint Uranus POG]]></title>
+            <guid>d5456f5d62c2470ab38a78cbab60ded7</guid>
+            <pubDate>Fri, 26 Nov 2021 13:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[Soleil conjoint Uranus POG
+<a title="https://youtu.be/YF1eYbfbH5k" href="https://youtu.be/YF1eYbfbH5k">https://youtu.be/YF1eYbfbH5k</a>
+<img src="/_resources/77ffbe5d58c94251ae0d38d22600225e.png" />
+<a title="https://youtu.be/XB8EAWKXHsw?list=RDXB8EAWKXHsw" href="https://youtu.be/XB8EAWKXHsw?list=RDXB8EAWKXHsw">https://youtu.be/XB8EAWKXHsw?list=RDXB8EAWKXHsw</a>]]></content:encoded>
+        </item>
     </channel>
 </rss>
